@@ -79,7 +79,7 @@
 
 ```bash
 # 克隆仓库到本地
-git clone https://github.com/amap-web/amap-skills.git
+git clone https://github.com/AMap-Web/amap-skills.git
 
 # 进入目录
 cd amap-skills
