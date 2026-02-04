@@ -81,7 +81,7 @@ All code examples have been verified. AI will self-validate the usability of gen
 
 ```bash
 # Clone the repository locally
-git clone https://github.com/amap-web/amap-skills.git
+git clone https://github.com/AMap-Web/amap-skills.git
 
 # Enter the directory
 cd amap-skills
