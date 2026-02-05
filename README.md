@@ -90,7 +90,7 @@ cd amap-skills
 
 #### Option 2: Direct Download
 
-Download the latest version archive from the [Releases](https://github.com/AMap-Web/amap-skills/releases) page and extract it.
+Download the latest version archive from the [Releases](https://github.com/AMap-Web/amap-skills/releases/tag/v1.1.0) page and extract it.
 
 ### Step 2: Configure Skill in Cursor
 
