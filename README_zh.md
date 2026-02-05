@@ -88,7 +88,7 @@ cd amap-skills
 
 #### 方式二：直接下载
 
-从 [Releases](https://github.com/AMap-Web/amap-skills/releases) 页面下载最新版本的压缩包并解压。
+从 [Releases](https://github.com/AMap-Web/amap-skills/releases/tag/v1.1.0) 页面下载最新版本的压缩包并解压。
 
 ### 第二步：在 Cursor 中配置 Skill
 
