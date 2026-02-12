@@ -55,6 +55,7 @@ AMapLoader.load({
     - `references/geocoder.md` - 地理编码/逆地理编码（地址/坐标互转）。
     - `references/routing.md` - 路径规划（驾车/步行/公交）。
     - `references/search.md` - POI 搜索与输入提示。
+- **地图截图**：`references/screenshot.md` - 使用 `@amap/screenshot` [插件](https://github.com/AMap-Web/amap-screenshot) 将当前地图视图导出为 Canvas 或图片（需配合 `WebGLParams.preserveDrawingBuffer`）。
 - **事件系统**：`references/events.md` - 响应点击、拖拽、缩放等交互事件。
 ## 最佳实践
 1. **安全第一**：生产环境务必使用代理服务器转发 `serviceHost`，避免 `securityJsCode` 泄露。
@@ -119,6 +120,9 @@ Driving / DrivingCallback / DrivingResult / DriveStepBasic / DriveStepDetail / T
 
 ### [Other Services](references/api/services-other.md)
 DistrictSearch / Weather / WeatherLiveResult / WeatherForecastResult / StationSearch / LineSearch
+
+### [Screenshot](references/screenshot.md)
+Screenshot (toCanvas / toDataURL / download / destroy)
 
 ### [Geolocation](references/api/geolocation.md)
 Geolocation / GeolocationCallBack / GeolocationResult / CitySearch
