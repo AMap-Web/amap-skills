@@ -1,0 +1,181 @@
+# ===========================
+# 依赖 & 包管理
+# ===========================
+node_modules/
+.pnp
+.pnp.js
+jspm_packages/
+
+# ===========================
+# 构建产物
+# ===========================
+dist/
+build/
+out/
+.output/
+.next/
+.nuxt/
+.vuepress/dist/
+.cache/
+
+# ===========================
+# 环境变量 & 配置
+# ===========================
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===========================
+# 日志
+# ===========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===========================
+# 运行时 & 临时文件
+# ===========================
+*.pid
+*.seed
+*.pid.lock
+.tmp/
+tmp/
+temp/
+
+# ===========================
+# 测试覆盖率
+# ===========================
+coverage/
+*.lcov
+.nyc_output/
+
+# ===========================
+# 编辑器 & IDE
+# ===========================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===========================
+# 包管理器锁文件（按需保留）
+# ===========================
+# yarn.lock
+# package-lock.json
+# pnpm-lock.yaml
+
+# ===========================
+# TypeScript
+# ===========================
+*.tsbuildinfo
+
+# ===========================
+# 调试
+# ===========================
+.node_repl_history
+
+# ===========================
+# macOS 系统文件
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# ===========================
+# Windows 系统文件
+# ===========================
+Thumbs.db
+Thumbs.db:encdata
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ===========================
+# Linux 系统文件
+# ===========================
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+.venv/
+venv/
+ENV/
+env/
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===========================
+# Electron
+# ===========================
+app-builds/
+release/
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*.snap
+
+# ===========================
+# 安全 & 密钥（重要）
+# ===========================
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+config.local.json
+secrets.json
+.secrets/
+
+# ===========================
+# 阿里内部 & 项目特定
+# ===========================
+.aone_copilot/rules/code-auto-collection.md
+
