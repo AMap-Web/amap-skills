@@ -1,9 +1,10 @@
-| 属性 | 值 |
-| --- | --- |
-| **name** | amap-jsapi-skill |
-| **description** | 高德地图 JSAPI v2.0 (WebGL) 开发技能。涵盖地图生命周期管理、强制安全配置、3D 视图控制、覆盖物绘制及 LBS 服务集成。 |
-| **license** | MIT |
-| **version** | 1.0.0 |
+---
+name: amap-jsapi-skill
+description: 高德地图 JSAPI v2.0 (WebGL) 开发技能。涵盖地图生命周期管理、强制安全配置、3D 视图控制、覆盖物绘制及 LBS 服务集成。
+license: MIT
+version: 1.1.0
+homepage: https://lbs.amap.com
+---
 
 # 高德地图 JSAPI v2.0 开发技能
 本指南包含地图初始化、覆盖物、事件、图层等核心模块的 API 说明和代码示例，旨在帮助开发者快速集成高德地图并遵循正确的使用方式。
